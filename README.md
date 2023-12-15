@@ -1,4 +1,4 @@
-# TTK Bootstrap Repository
+# TTK Bootstrap Repository (under construction)
 
 Welcome to the TTK Bootstrap Repository! This repository is designed for students to learn and work with the ttkbootstrap library in Python. Below is an example file to get you started.
 
